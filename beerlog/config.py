@@ -1,5 +1,5 @@
-import os
 from dynaconf import Dynaconf
+import os
 
 
 settings = Dynaconf(
